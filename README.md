@@ -47,7 +47,7 @@ df.head()
 
 ---
 
-## 🔬 NumPy in Action
+##  NumPy in Action
 
 ### 1️ Creating Arrays
 ```python
