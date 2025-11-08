@@ -49,7 +49,7 @@ df.head()
 
 ##  NumPy in Action
 
-### 1️ Creating Arrays
+###  Creating Arrays
 ```python
 import numpy as np
 
@@ -58,7 +58,7 @@ b = np.array([[1, 2], [3, 4]])  # 2D array
 c = np.array([[1, 2], [3, 4], [5, 6]])  # 3D-like array
 ```
 
-### 2️ Working with the Forest Fires Data
+###  Working with the Forest Fires Data
 ```python
 fires = df.iloc[:5, 8:]
 print(fires)
@@ -176,12 +176,12 @@ print(my_name)  # Output: AADIL
 
 ##  Key Learnings
 
-✅ How to work with **NumPy ndarrays**  
-✅ Perform **array transformations** and **reshaping**  
-✅ Understand **broadcasting rules**  
-✅ Apply **statistical** and **arithmetic** functions efficiently  
-✅ Use **vectorization** to replace loops  
-✅ Work with **random number generation** for simulation or modeling
+ How to work with **NumPy ndarrays**  
+ Perform **array transformations** and **reshaping**  
+ Understand **broadcasting rules**  
+ Apply **statistical** and **arithmetic** functions efficiently  
+ Use **vectorization** to replace loops  
+ Work with **random number generation** for simulation or modeling
 
 ---
 
@@ -212,7 +212,7 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Mr. Aadil**  
 Data Analyst | AI | ML 
